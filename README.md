@@ -49,3 +49,4 @@ Si deseas contribuir, por favor sigue estos pasos:
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+
